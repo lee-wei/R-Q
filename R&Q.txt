@@ -1,0 +1,2 @@
+make menuconfig Ê§°Ü
+	sudo apt-get install libncurses5-dev
