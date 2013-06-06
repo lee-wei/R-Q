@@ -1,2 +1,5 @@
 make menuconfig Ê§°Ü
 	sudo apt-get install libncurses5-dev
+
+ubuntu zlib°²×°
+	sudo apt-get install zlib1g-dev
